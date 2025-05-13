@@ -16,7 +16,6 @@
 
 - **Edit Task**
   - Modify any task information.
-  - Confirmation is required before finalizing the edits.
 
 - **Remove Task**
   - Delete any task from the list.
@@ -32,7 +31,6 @@
 
 - **Search Tasks**
   - Search for a task by name.
-  - If no results are found, show a **friendly and informative message**.
 
 - **Filter and Sort Tasks**
   - View tasks using segmented control by:
@@ -41,7 +39,6 @@
     - `In Progress`
     - `Done`
     - `Priority`
-  - If sorted by priority, display tasks in **separate sections** for each level (`High`, `Medium`, `Low`).
 
 - **Persistent Storage**
   - All tasks and their changes are stored **locally**.
