@@ -1,4 +1,4 @@
-# Remindful: iOS TODO List App implemented using Objective-C with MVC, UIKit, UserDefaults.
+# 🗒️ Remindful: iOS TODO List App implemented using Objective-C with MVC, UIKit, UserDefaults.
 
 ##  Features
 
